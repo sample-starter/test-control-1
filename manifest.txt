@@ -1,0 +1,3 @@
+.git/config
+.git/HEAD
+src/main/java/org/example/sample/Application.java
